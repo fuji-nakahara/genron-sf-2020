@@ -1,6 +1,6 @@
-# Japanese novel template
+# SF創作講座 2020 梗概集
 
-TODO: Change the title and write your novel's description.
+「[ゲンロン 大森望 SF創作講座 2020](https://school.genron.co.jp/works/sf/2018/)」課題に対する梗概集
 
 ## Usage
 
@@ -16,7 +16,3 @@ TODO: Change the title and write your novel's description.
     $ git push --tags
 
 Then `Ebook` workflow will start.
-
-## ライセンス
-
-TODO
